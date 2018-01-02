@@ -331,6 +331,7 @@ button:focus {
 
 a.grid__item:hover {
     background-position: center center !important;
+    color:transparent;
 }
 .title title--preview:hover{
     color: transparent;
