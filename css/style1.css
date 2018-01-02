@@ -332,6 +332,13 @@ button:focus {
 a.grid__item:hover {
     background-position: center center !important;
 }
+.title title--preview:hover{
+    color: transparent;
+}
+
+.category:hover{
+    color: transparent;
+}
 
 /* Grid item "border" */
 .grid__item::before {
