@@ -310,7 +310,7 @@ button:focus {
   background: #fff;
   min-height: 300px;
   cursor: pointer;
-  text-align: center;
+  text-align: left;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -361,7 +361,7 @@ a.grid__item:hover {
   margin: 0;
   font-size: 1.875em;
   font-family: "Playfair Display", serif;
-  text-align: center;
+  text-align: left;
 }
 
 .title--preview {
@@ -413,7 +413,7 @@ a.grid__item:hover {
   font-size: 0.95em;
   font-style: italic;
   font-family: "Playfair Display", serif;
-  text-align: center;
+  text-align: left;
   display: block;
 }
 
