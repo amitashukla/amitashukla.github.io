@@ -96,6 +96,7 @@ header p {
 }
 
 .timeline-img {
+  content:url(http://placehold.it/350x150);
   width: 30px;
   height: 30px;
   background: #3F51B5;
