@@ -1,4 +1,6 @@
+
 /**
+ *part of the pages theme
  * main.js
  * http://www.codrops.com
  *
