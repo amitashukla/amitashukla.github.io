@@ -190,16 +190,16 @@ a:hover, a:active, a:focus {
 }
 
 .timeline-item:nth-child(1) .timeline-img-header {
-  background: /*linear-gradient(transparent, rgba(0, 0, 0, 0.4)),*/ url("https://pbs.twimg.com/profile_images/628341205038804992/l2dstY8p.png") center center no-repeat;
+  background: /*linear-gradient(transparent, rgba(0, 0, 0, 0.4)),*/ url("https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2015/01/cra_logo_hz.png") center center no-repeat;
   background-size: cover;
 }
 
 .timeline-item:nth-child(2) .timeline-img-header {
-  background: /*linear-gradient(transparent, rgba(0, 0, 0, 0.4)),*/ url("https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Columbia_Engineering_logo.svg/1200px-Columbia_Engineering_logo.svg.png") center center no-repeat;
+  background: /*linear-gradient(transparent, rgba(0, 0, 0, 0.4)),*/ url("https://engineering.columbia.edu/sites/all/themes/seas_theme/logo.png") center center no-repeat;
   background-size: cover;
 }
 .timeline-item:nth-child(3) .timeline-img-header {
-  background: /*linear-gradient(transparent, rgba(0, 0, 0, 0.4)),*/ url("https://europeanwesternbalkans.com/wp-content/uploads/2017/03/flag_of_the_united_states_department_of_state-svg.png") center center no-repeat;
+  background: /*linear-gradient(transparent, rgba(0, 0, 0, 0.4)),*/ url("https://fpc.state.gov/images/2010/printbanner950_2010.jpg") center center no-repeat;
   background-size: cover;
 }
 .timeline-item:nth-child(4) .timeline-img-header {
@@ -215,7 +215,7 @@ a:hover, a:active, a:focus {
   background-size: cover;
 }
 .timeline-item:nth-child(7) .timeline-img-header {
-  background: /*linear-gradient(transparent, rgba(0, 0, 0, 0.4)),*/ url("http://harmonywithnatureun.org/img/logo.png?1") center center no-repeat;
+  background: /*linear-gradient(transparent, rgba(0, 0, 0, 0.4)),*/ url("https://www.newspakistan.tv/wp-content/uploads/2018/06/ECOSOC.png") center center no-repeat;
   background-size: cover;
 }
 
