@@ -140,7 +140,7 @@ a:hover, a:active, a:focus {
 }
 
 .timeline-item:nth-child(1) .timeline-img-header {
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.82)), url("https://pbs.twimg.com/profile_images/628341205038804992/l2dstY8p.png") center center no-repeat;
+  background: linear-gradient(transparent, rgba(148, 216, 235, .82)), url("https://pbs.twimg.com/profile_images/628341205038804992/l2dstY8p.png") center center no-repeat;
   background-size: cover;
 }
 
