@@ -76,10 +76,11 @@ h1 {
 }
 
 header {
-  background: #3F51B5;
+  background: #94d8eb;
   color: #FFFFFF;
-  padding: 80px 0;
+  padding: 60px 0;
 }
+
 header p {
   font-family: 'Allura';
   color: rgba(255, 255, 255, 0.2);
