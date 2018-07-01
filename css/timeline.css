@@ -190,32 +190,32 @@ a:hover, a:active, a:focus {
 }
 
 .timeline-item:nth-child(1) .timeline-img-header {
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://cra.org/wp-content/uploads/2015/05/logo.png") center center no-repeat;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://pbs.twimg.com/profile_images/628341205038804992/l2dstY8p.png") center center no-repeat;
   background-size: cover;
 }
 
 .timeline-item:nth-child(2) .timeline-img-header {
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://static1.squarespace.com/static/5a2861f1d74cff16007d5a71/t/5a32b4dae4966bad37eea60a/1513272539456/") center center no-repeat;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Columbia_Engineering_logo.svg/1200px-Columbia_Engineering_logo.svg.png") center center no-repeat;
   background-size: cover;
 }
 .timeline-item:nth-child(5) .timeline-img-header {
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://hd.unsplash.com/photo-1444093826349-9ce8c622f4f3") center center no-repeat;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/U.S._Department_of_State_official_seal.svg/1200px-U.S._Department_of_State_official_seal.svg.png") center center no-repeat;
   background-size: cover;
 }
 .timeline-item:nth-child(6) .timeline-img-header {
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://hd.unsplash.com/photo-1471479917193-f00955256257") center center no-repeat;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2016/05/daydream-logo.jpg") center center no-repeat;
   background-size: cover;
 }
 .timeline-item:nth-child(8) .timeline-img-header {
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://hd.unsplash.com/photo-1466840787022-48e0ec048c8a") center center no-repeat;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("http://www.jamesdysonfoundation.com/wp-content/uploads/2016/12/logo-jdf.svg") center center no-repeat;
   background-size: cover;
 }
 .timeline-item:nth-child(10) .timeline-img-header {
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://hd.unsplash.com/photo-1447639703758-f525f36456bf") center center no-repeat;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("http://columbia.studioabroad.com/accounts/85A0880C8262BCBC378AC887D0FD764E/themes/stockassets/Columbia2.png") center center no-repeat;
   background-size: cover;
 }
 .timeline-item:nth-child(11) .timeline-img-header {
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://hd.unsplash.com/photo-1469429978400-082eec725ad5") center center no-repeat;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("http://harmonywithnatureun.org/img/logo.png?1") center center no-repeat;
   background-size: cover;
 }
 
