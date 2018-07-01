@@ -1,3 +1,7 @@
+@-ms-viewport{
+  width: device-width;
+}
+
 .topnav {
   overflow: hidden;
   background-color: #3F51B5;
