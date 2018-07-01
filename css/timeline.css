@@ -198,23 +198,23 @@ a:hover, a:active, a:focus {
   background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Columbia_Engineering_logo.svg/1200px-Columbia_Engineering_logo.svg.png") center center no-repeat;
   background-size: cover;
 }
-.timeline-item:nth-child(5) .timeline-img-header {
+.timeline-item:nth-child(3) .timeline-img-header {
   background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/U.S._Department_of_State_official_seal.svg/1200px-U.S._Department_of_State_official_seal.svg.png") center center no-repeat;
   background-size: cover;
 }
-.timeline-item:nth-child(6) .timeline-img-header {
+.timeline-item:nth-child(4) .timeline-img-header {
   background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2016/05/daydream-logo.jpg") center center no-repeat;
   background-size: cover;
 }
-.timeline-item:nth-child(8) .timeline-img-header {
+.timeline-item:nth-child(5) .timeline-img-header {
   background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("http://www.jamesdysonfoundation.com/wp-content/uploads/2016/12/logo-jdf.svg") center center no-repeat;
   background-size: cover;
 }
-.timeline-item:nth-child(10) .timeline-img-header {
+.timeline-item:nth-child(6) .timeline-img-header {
   background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("http://columbia.studioabroad.com/accounts/85A0880C8262BCBC378AC887D0FD764E/themes/stockassets/Columbia2.png") center center no-repeat;
   background-size: cover;
 }
-.timeline-item:nth-child(11) .timeline-img-header {
+.timeline-item:nth-child(7) .timeline-img-header {
   background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("http://harmonywithnatureun.org/img/logo.png?1") center center no-repeat;
   background-size: cover;
 }
