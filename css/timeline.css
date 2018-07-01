@@ -4,7 +4,7 @@
 
 .topnav {
   overflow: hidden;
-  background-color: #3F51B5;
+  background-color: #94d8eb;
 }
 
 .topnav a {
@@ -83,7 +83,7 @@ header {
 
 header p {
   font-family: 'Allura';
-  color: rgba(255, 255, 255, 0.2);
+  color: rgba(255, 255, 255, 0.4);
   margin-bottom: 0;
   font-size: 60px;
   margin-top: -30px;
