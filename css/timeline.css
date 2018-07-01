@@ -190,12 +190,12 @@ a:hover, a:active, a:focus {
 }
 
 .timeline-item:nth-child(1) .timeline-img-header {
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://thumbs.dreamstime.com/z/kiev-ukraine-may-group-people-retro-clothes-participating-bicycle-tweed-run-retro-cruise-may-kiev-ukraine-kiev-119936681.jpg") center center no-repeat;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://cra.org/wp-content/uploads/2015/05/logo.png") center center no-repeat;
   background-size: cover;
 }
 
 .timeline-item:nth-child(2) .timeline-img-header {
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://thumbs.dreamstime.com/z/kiev-ukraine-may-group-people-retro-clothes-participating-bicycle-tweed-run-retro-cruise-may-kiev-ukraine-kiev-119936681.jpg") center center no-repeat;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://static1.squarespace.com/static/5a2861f1d74cff16007d5a71/t/5a32b4dae4966bad37eea60a/1513272539456/") center center no-repeat;
   background-size: cover;
 }
 .timeline-item:nth-child(5) .timeline-img-header {
