@@ -190,32 +190,32 @@ a:hover, a:active, a:focus {
 }
 
 .timeline-item:nth-child(1) .timeline-img-header {
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.6)), url("https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2015/01/cra_logo_hz.png") center center no-repeat;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.75)), url("https://pbs.twimg.com/profile_images/628341205038804992/l2dstY8p.png") center center no-repeat;
   background-size: cover;
 }
 
 .timeline-item:nth-child(2) .timeline-img-header {
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.6)),url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9O_Mfve8jPgzB7nhAYOJZ2TpxCI7oJ6Spn5gIReZ5AABe_YLmXA") center center no-repeat;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.75)),url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9O_Mfve8jPgzB7nhAYOJZ2TpxCI7oJ6Spn5gIReZ5AABe_YLmXA") center center no-repeat;
   background-size: cover;
 }
 .timeline-item:nth-child(3) .timeline-img-header {
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.6)), url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Seal_of_the_United_States_Department_of_State.svg/1000px-Seal_of_the_United_States_Department_of_State.svg.png") center center no-repeat;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.75)), url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Seal_of_the_United_States_Department_of_State.svg/1000px-Seal_of_the_United_States_Department_of_State.svg.png") center center no-repeat;
   background-size: cover;
 }
 .timeline-item:nth-child(4) .timeline-img-header {
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.6)), url("https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2016/05/daydream-logo.jpg") center center no-repeat;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.75)), url("https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2016/05/daydream-logo.jpg") center center no-repeat;
   background-size: cover;
 }
 .timeline-item:nth-child(5) .timeline-img-header {
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.6)), url("https://dysonfoundation.org/images/DF%20Logos/DF%20Logos%20JPG/DF_Logo_Horizontal.jpg") center center no-repeat;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.75)), url("https://dysonfoundation.org/images/DF%20Logos/DF%20Logos%20JPG/DF_Logo_Horizontal.jpg") center center no-repeat;
   background-size: cover;
 }
 .timeline-item:nth-child(6) .timeline-img-header {
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.6)), url("https://images-na.ssl-images-amazon.com/images/I/61Fa-pNEFXL._SX425_.jpg") center center no-repeat;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.75)), url("https://images-na.ssl-images-amazon.com/images/I/61Fa-pNEFXL._SX425_.jpg") center center no-repeat;
   background-size: cover;
 }
 .timeline-item:nth-child(7) .timeline-img-header {
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.6)), url("http://www.belta.by/images/storage/news/000020_302613_big.jpg") center center no-repeat;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.75)), url("http://www.belta.by/images/storage/news/000020_302613_big.jpg") center center no-repeat;
   background-size: cover;
 }
 
